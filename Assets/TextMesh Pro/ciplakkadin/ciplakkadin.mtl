@@ -1,0 +1,38 @@
+# Exported from Fuse 1.3.0
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd ciplakkadin_Hair_diffuse.png
+map_Ks ciplakkadin_Hair_specular.png
+bump ciplakkadin_Hair_normal.png
+map_Ns ciplakkadin_Hair_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd ciplakkadin_Body_diffuse.png
+map_Ks ciplakkadin_Body_specular.png
+bump ciplakkadin_Body_normal.png
+map_Ns ciplakkadin_Body_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd ciplakkadin_Bottom_diffuse.png
+map_Ks ciplakkadin_Bottom_specular.png
+bump ciplakkadin_Bottom_normal.png
+map_Ns ciplakkadin_Bottom_gloss.png
+
